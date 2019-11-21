@@ -6,4 +6,6 @@ __Developed using OpenCV__
 * [OpenCV](https://material.io/)
 
 #Deep Learning
-*
+__Developed using Keras and Tensorflow__
+* [Keras](https://keras.io/)
+* [Tensorflow](https://www.tensorflow.org/)
